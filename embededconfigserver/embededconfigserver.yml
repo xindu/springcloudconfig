@@ -1,1 +1,1 @@
-hystrix.command.product.execution.isolation.thread.timeoutInMilliseconds: "4000"
+hystrix.command.product.execution.isolation.thread.timeoutInMilliseconds: "2000"
